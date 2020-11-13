@@ -85,5 +85,5 @@ Some alternatve good control over your widgets can also be achieved using the
 geometry manager to place them into a grid or using the coordinates
 (example3.py and exampl4.py
 """
-
+nF.mainloop()
 window.mainloop()
